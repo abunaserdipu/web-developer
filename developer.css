@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: grey;
+}
+.header-color{
+    color: green;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{
+    width: 100%;
+}
+.top-section{
+    background-image: url("images/myfirstbg.png");
+    background-repeat: no-repeat;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(50deg,green, greenyellow); 
+    font-weight: 700;
+    color: white;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
